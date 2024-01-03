@@ -1,0 +1,7 @@
+D:\Mphasis\2jan\Jan2OOPEXample\Jan2OOPEXample\bin\Debug\Jan2OOPEXample.exe.config
+D:\Mphasis\2jan\Jan2OOPEXample\Jan2OOPEXample\bin\Debug\Jan2OOPEXample.exe
+D:\Mphasis\2jan\Jan2OOPEXample\Jan2OOPEXample\bin\Debug\Jan2OOPEXample.pdb
+D:\Mphasis\2jan\Jan2OOPEXample\Jan2OOPEXample\obj\Debug\Jan2OOPEXample.csproj.AssemblyReference.cache
+D:\Mphasis\2jan\Jan2OOPEXample\Jan2OOPEXample\obj\Debug\Jan2OOPEXample.csproj.CoreCompileInputs.cache
+D:\Mphasis\2jan\Jan2OOPEXample\Jan2OOPEXample\obj\Debug\Jan2OOPEXample.exe
+D:\Mphasis\2jan\Jan2OOPEXample\Jan2OOPEXample\obj\Debug\Jan2OOPEXample.pdb

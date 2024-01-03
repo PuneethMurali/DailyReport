@@ -1,0 +1,6 @@
+D:\Mphasis\2jan\ServiceBank\ServiceBank\bin\Debug\ServiceBank.dll
+D:\Mphasis\2jan\ServiceBank\ServiceBank\bin\Debug\ServiceBank.pdb
+D:\Mphasis\2jan\ServiceBank\ServiceBank\obj\Debug\ServiceBank.csproj.AssemblyReference.cache
+D:\Mphasis\2jan\ServiceBank\ServiceBank\obj\Debug\ServiceBank.csproj.CoreCompileInputs.cache
+D:\Mphasis\2jan\ServiceBank\ServiceBank\obj\Debug\ServiceBank.dll
+D:\Mphasis\2jan\ServiceBank\ServiceBank\obj\Debug\ServiceBank.pdb
