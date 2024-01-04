@@ -1,0 +1,10 @@
+D:\Mphasis\2jan\TestWithExFun\TestWithExFun\bin\Debug\TestWithExFun.exe.config
+D:\Mphasis\2jan\TestWithExFun\TestWithExFun\bin\Debug\TestWithExFun.exe
+D:\Mphasis\2jan\TestWithExFun\TestWithExFun\bin\Debug\TestWithExFun.pdb
+D:\Mphasis\2jan\TestWithExFun\TestWithExFun\bin\Debug\ServiceBank.dll
+D:\Mphasis\2jan\TestWithExFun\TestWithExFun\bin\Debug\ServiceBank.pdb
+D:\Mphasis\2jan\TestWithExFun\TestWithExFun\obj\Debug\TestWithExFun.csproj.AssemblyReference.cache
+D:\Mphasis\2jan\TestWithExFun\TestWithExFun\obj\Debug\TestWithExFun.csproj.CoreCompileInputs.cache
+D:\Mphasis\2jan\TestWithExFun\TestWithExFun\obj\Debug\TestWithExFun.csproj.CopyComplete
+D:\Mphasis\2jan\TestWithExFun\TestWithExFun\obj\Debug\TestWithExFun.exe
+D:\Mphasis\2jan\TestWithExFun\TestWithExFun\obj\Debug\TestWithExFun.pdb
